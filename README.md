@@ -1,4 +1,4 @@
-- 💻 QA at [TOVS | Dimensa](https://dimensa.com/)
+- 💻 QA at [TOTVS | Dimensa](https://dimensa.com/)
 
 Reach me out 👇🏼
 
